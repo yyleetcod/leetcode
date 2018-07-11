@@ -4,6 +4,7 @@ Reverse a singly linked list.
 **Example:**
 
 **Input:** 1->2->3->4->5->NULL
+
 **Output:** 5->4->3->2->1->NULL
 
 **Solution**
@@ -38,6 +39,6 @@ public:
 };
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjQ3NzYzLDQ5NTI2MTAzOSwtMjgxMj
+eyJoaXN0b3J5IjpbLTc2MzUxNzA3LDQ5NTI2MTAzOSwtMjgxMj
 E4MzQyXX0=
 -->
