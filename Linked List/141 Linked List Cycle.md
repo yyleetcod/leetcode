@@ -5,7 +5,7 @@ Given a linked list, determine if it has a cycle in it.
 **Solution**
 
 1.Hash Table
--   Time complexity :  $O(n)$. We visit each of the  nn  elements in the list at most once. Adding a node to the hash table costs only  $O(1)$ time.
+-   Time complexity :   $O(n)$ . We visit each of the  nn  elements in the list at most once. Adding a node to the hash table costs only  $O(1)$ time.
     
 -   Space complexity:  $O(n)$. The space depends on the number of elements added to the hash table, which contains at most  $n$  elements.
 
@@ -46,5 +46,6 @@ Analyse:
     
 -   Space complexity :  $O(1)$. We only use two nodes (slow and fast) so the space complexity is  $O(1)$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI0NDk0OThdfQ==
+eyJoaXN0b3J5IjpbLTE3MTMyMTM3NjIsLTEyNzI0NDk0OThdfQ
+==
 -->
