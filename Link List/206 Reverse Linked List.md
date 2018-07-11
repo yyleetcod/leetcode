@@ -9,6 +9,7 @@ Reverse a singly linked list.
 **Output:** 5->4->3->2->1->NULL
 
 **Solution**
+
 Using iteration:
 ```
 class Solution {
@@ -40,6 +41,6 @@ public:
 };
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjM1MDYxMSw0OTUyNjEwMzksLTI4MT
+eyJoaXN0b3J5IjpbMTQ5NTg5MDU2MSw0OTUyNjEwMzksLTI4MT
 IxODM0Ml19
 -->
