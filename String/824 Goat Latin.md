@@ -38,7 +38,7 @@ public:
             if(hash.count(word[0]))
                 ans += word + "ma" + a + " ";
             else
-                ans += word.substr(1) + word[0] + + "ma" + a + " ";
+                ans += word.substr(1) + word[0] + "ma" + a + " ";
         }
         ans.pop_back();
         return ans;
@@ -47,5 +47,5 @@ public:
 ```
 Note: use i/o stringstream instead of stringsplit can make the code short.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODA2MTk0Nl19
+eyJoaXN0b3J5IjpbLTQ0OTQ1MTk3MywtOTI4MDYxOTQ2XX0=
 -->
