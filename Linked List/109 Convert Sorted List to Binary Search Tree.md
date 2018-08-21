@@ -66,5 +66,5 @@ Divide and Conquer, but we should first generate its left child tree, then the p
 - Time Complexity: $O(n)$
 - Space Complexity: $O(1)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDExNjEzMV19
+eyJoaXN0b3J5IjpbLTEwNTU4OTU2MSwtMTgwMTE2MTMxXX0=
 -->
