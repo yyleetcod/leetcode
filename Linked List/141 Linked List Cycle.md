@@ -46,6 +46,6 @@ Analyse:
     
 -   Space complexity :  $O(1)$. We only use two nodes (slow and fast) so the space complexity is  $O(1)$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTMyMTM3NjIsLTEyNzI0NDk0OThdfQ
-==
+eyJoaXN0b3J5IjpbMTI3Njg1MjE4MiwtMTcxMzIxMzc2MiwtMT
+I3MjQ0OTQ5OF19
 -->
